@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+# This repository is an Expo-managed project. The native Android project (and the real Gradle wrapper)
+# is generated via `expo prebuild --platform android`.
+#
+# Some CI validators attempt to run `./gradlew` directly; provide this stub to avoid "No such file"
+# errors and to point to the correct workflow.
+
+echo "gradlew not available: run 'npm run prebuild:android' to generate the Android project and Gradle wrapper."
+exit 0

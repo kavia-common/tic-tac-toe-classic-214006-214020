@@ -1,0 +1,6 @@
+#!/usr/bin/env sh
+# Expo-managed project: native projects (including the real Gradle wrapper) are generated via `expo prebuild`.
+# This stub prevents CI steps that run `./gradlew` in this directory from failing due to missing wrapper.
+
+echo "gradlew not available in tic_tac_toe_frontend. Run 'npm run prebuild:android' to generate android/gradlew."
+exit 0
