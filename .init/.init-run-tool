@@ -1,0 +1,4 @@
+{
+    "command": "npm run web -- --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-classic-214006-214020/tic_tac_toe_frontend"
+}
